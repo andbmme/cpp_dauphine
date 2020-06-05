@@ -37,6 +37,10 @@ build/
 # Npm
 dist/
 node_modules/
+package-lock.json
+
+# Notebook
+.ipynb_checkpoints/
 
 # tex
 *.log
